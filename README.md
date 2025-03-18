@@ -1,4 +1,5 @@
 **AtliQ Hardwares Sales Analytics Report :**
+
 **Project objective:**
 
 1. Create a customer performance report
@@ -16,6 +17,7 @@ Overview
 These insights provide a snapshot of AtliQ Hardwares' sales performance over the years, highlighting top performers, growth trends, market-specific challenges, and opportunities for improvement. Analyzing these insights can help the company make informed decisions to enhance its sales strategy and overall performance.
 
 Customer Net Sales Performance (2019-2021):
+
 **Top Performers:**
 
 Customers like Amazon, AtliQ e Store, and AtliQ Exclusive have shown significant growth in net sales, indicating strong market presence and customer loyalty.
